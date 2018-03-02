@@ -1,3 +1,12 @@
+*.suo
+*.user
+*.ide
+_ReSharper.*
+bin
+obj
+packages
+PushToBuild.bat
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
